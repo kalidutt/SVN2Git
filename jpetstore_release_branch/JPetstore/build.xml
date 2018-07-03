@@ -1,4 +1,4 @@
-<project name="JPetStore" default="all" basedir=".">
+<project name="JPetStore" default="all" basedir="."> <!-- dev changes -->
 
   <property name="web" value="web"/>
   <property name="src" value="src"/>
